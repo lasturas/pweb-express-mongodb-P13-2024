@@ -8,3 +8,13 @@ MONGO_URI=<Mongo URI>
 PORT=5050
 JWT_SECRET=<JWT Token>
 ```
+
+### Menjalankan NPM
+```
+npm run build
+```
+```
+npm start
+```
+
+### Test menggunakan aplikasi Postman
