@@ -18,3 +18,4 @@ npm start
 ```
 
 ## Test menggunakan aplikasi Postman
+![image](https://github.com/user-attachments/assets/0b1200ab-6ab1-463a-8714-2fda01643ff2)
